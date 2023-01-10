@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The value of pressure taken in the definition of permeability according to American Foundry Men Society (AFS) is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "5 g/cm<sup>2</sup>",
+        "b": "10 g/cm<sup>2</sup>",
+        "c": "15 g/cm<sup>2</sup>",
+        "d": "25 g/cm<sup>2</sup>"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Composition of green sand is:",
+      "answers": {
+        "a": "Silica sand, 10% clay, 2-5% water and about 5% sea coal",
+        "b": "Silica sand, 15-20% clay, 8 % water",
+        "c": "Silica sand, 8% clay, 7-9% water and about 5% sea coal",
+        "d": "Silica sand, 8% clay, 2-5% water and about 3% sea coal"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Permeability number depend on which of the following factors:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Time for 2000 cc of air passed through the sand specimen",
+        "b": "Height of the specimen",
+        "c": "Area of the specimen",
+        "d": "All the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +49,41 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Permeability of moulding sand does not depend on which of the following facto:",
+      "answers": {
+        "a": "Molten metal poured",
+        "b": "Amount of binder content",
+        "c": "Degree of compactness",
+        "d": "Grain size"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Increase in clay content would result in:",
+      "answers": {
+        "a": "Increase permeability",
+        "b": "Decrease permeability",
+        "c": "Permeability remains constant",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
