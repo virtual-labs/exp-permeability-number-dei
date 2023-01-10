@@ -4,7 +4,7 @@ It can be understood as when the molten metal is poured in the mould, it comes i
 The American Foundry Men Society (AFS) defines permeability as “the number obtained by passing 2000cc of air through a standard specimen under a pressure of 10 gm/cm2 for a given time in minutes”.
 Permeability is one of the most important properties affecting the characteristic of moulds and it depends upon several factors such as the grain size, grain shape, grain distribution, binder content, moisture level and degree of compactness.
 Permeability of sand is measured in number, and it is called as permeability number. And the permeability is calculated by the following equation:
-Figure
+![Formula](images/formula.jpg "formula")
 Where 
 V = Volume of air passing through the specimen, 2000cc 
 H = Height of the specimen = 50.8 mm (standard value) 
