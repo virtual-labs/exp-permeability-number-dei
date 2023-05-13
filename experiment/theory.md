@@ -12,7 +12,7 @@ Permeability of sand is measured in number, and it is called as permeability num
 ![Formula](images/formula.jpg "formula")
 
 Where 
-V = Volume of air passing through the specimen, 2000cc<br>
+V = Volume of air passing through the specimen, 2000 cc<br>
 H = Height of the specimen = 50.8 mm (standard value) <br>
 P = Pressure as read from the manometer in gm/cm<sup>2</sup><br>
 A = Area of the specimen = (πd<sup>2</sup>)/4       where d = 50.8 mm (standard value)<br>
