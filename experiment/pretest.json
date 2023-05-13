@@ -21,10 +21,10 @@
     {
       "question": "Composition of green sand is:",
       "answers": {
-        "a": "Silica sand, 10% clay, 2-5% water and about 5% sea coal",
-        "b": "Silica sand, 15-20% clay, 8 % water",
-        "c": "Silica sand, 8% clay, 7-9% water and about 5% sea coal",
-        "d": "Silica sand, 8% clay, 2-5% water and about 3% sea coal"
+        "a": "Silica sand, 10% clay, 2-5 % water and about 5 % sea coal",
+        "b": "Silica sand, 15-20 % clay, 8 % water",
+        "c": "Silica sand, 8 % clay, 7-9 % water and about 5 % sea coal",
+        "d": "Silica sand, 8 % clay, 2-5 % water and about 3 % sea coal"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
