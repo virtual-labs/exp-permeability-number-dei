@@ -11,6 +11,8 @@ Permeability of sand is measured in number, and it is called as permeability num
 
 ![Formula](images/formula.jpg "formula")
 
+$$ P_N = \frac{VH}{PAt} $$
+
 Where 
 V = Volume of air passing through the specimen, 2000 cc<br>
 H = Height of the specimen = 50.8 mm (standard value) <br>
