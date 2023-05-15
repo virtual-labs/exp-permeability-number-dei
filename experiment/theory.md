@@ -9,8 +9,6 @@ Permeability is one of the most important properties affecting the characteristi
 
 Permeability of sand is measured in number, and it is called as permeability number. And the permeability is calculated by the following equation:
 
-![Formula](images/formula.jpg "formula")
-
 $$ P_N = \frac{VH}{PAt} $$
 
 Where 
