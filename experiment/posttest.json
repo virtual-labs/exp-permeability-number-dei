@@ -10,10 +10,10 @@
         "d": "50.8 cm and 50.8 cm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In permeability testing of sands, the standard specimen typically has a height and diameter of 50.8 cm (or 20 inches). This size is standardized to ensure consistency in test results across different laboratories and experiments. Therefore, option d is correct because it matches these dimensions.",
+        "b": "In permeability testing of sands, the standard specimen typically has a height and diameter of 50.8 cm (or 20 inches). This size is standardized to ensure consistency in test results across different laboratories and experiments. Therefore, option d is correct because it matches these dimensions.",
+        "c": "In permeability testing of sands, the standard specimen typically has a height and diameter of 50.8 cm (or 20 inches). This size is standardized to ensure consistency in test results across different laboratories and experiments. Therefore, option d is correct because it matches these dimensions.",
+        "d": "In permeability testing of sands, the standard specimen typically has a height and diameter of 50.8 cm (or 20 inches). This size is standardized to ensure consistency in test results across different laboratories and experiments. Therefore, option d is correct because it matches these dimensions."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "X"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In the context of measuring the permeability of sand specimens, particularly with the use of a permeability meter, the 'O-P-D' valve refers to the positions of Open (O), Partial (P), and Full (D). When measuring the time required for air to pass through the specimen, the valve should be placed in the 'P' position. This allows for a controlled flow rate that ensures accurate measurement of permeability.",
+        "b": "In the context of measuring the permeability of sand specimens, particularly with the use of a permeability meter, the 'O-P-D' valve refers to the positions of Open (O), Partial (P), and Full (D). When measuring the time required for air to pass through the specimen, the valve should be placed in the 'P' position. This allows for a controlled flow rate that ensures accurate measurement of permeability.",
+        "c": "In the context of measuring the permeability of sand specimens, particularly with the use of a permeability meter, the 'O-P-D' valve refers to the positions of Open (O), Partial (P), and Full (D). When measuring the time required for air to pass through the specimen, the valve should be placed in the 'P' position. This allows for a controlled flow rate that ensures accurate measurement of permeability.",
+        "d": "In the context of measuring the permeability of sand specimens, particularly with the use of a permeability meter, the 'O-P-D' valve refers to the positions of Open (O), Partial (P), and Full (D). When measuring the time required for air to pass through the specimen, the valve should be placed in the 'P' position. This allows for a controlled flow rate that ensures accurate measurement of permeability."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "X"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "When the 'O-P-D' valve is positioned at 'D' (Full), it means the valve is fully open. This position is used when the air tank is lifted to the '0' mark. This allows the air tank to rise freely without any restriction from the valve, ensuring that the initial conditions are set correctly for the permeability test.",
+        "b": "When the 'O-P-D' valve is positioned at 'D' (Full), it means the valve is fully open. This position is used when the air tank is lifted to the '0' mark. This allows the air tank to rise freely without any restriction from the valve, ensuring that the initial conditions are set correctly for the permeability test.",
+        "c": "When the 'O-P-D' valve is positioned at 'D' (Full), it means the valve is fully open. This position is used when the air tank is lifted to the '0' mark. This allows the air tank to rise freely without any restriction from the valve, ensuring that the initial conditions are set correctly for the permeability test.",
+        "d": "When the 'O-P-D' valve is positioned at 'D' (Full), it means the valve is fully open. This position is used when the air tank is lifted to the '0' mark. This allows the air tank to rise freely without any restriction from the valve, ensuring that the initial conditions are set correctly for the permeability test."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Permeability in sand refers to the ease with which fluids (typically air) can pass through it. Finer sand particles have smaller gaps or pores between them compared to coarser sand particles. As a result, finer sand will offer more resistance to the flow of air, leading to a lower permeability number. Conversely, coarser sand has larger gaps between particles, allowing air to pass through more easily and resulting in a higher permeability number.",
+        "b": "Permeability in sand refers to the ease with which fluids (typically air) can pass through it. Finer sand particles have smaller gaps or pores between them compared to coarser sand particles. As a result, finer sand will offer more resistance to the flow of air, leading to a lower permeability number. Conversely, coarser sand has larger gaps between particles, allowing air to pass through more easily and resulting in a higher permeability number.",
+        "c": "Permeability in sand refers to the ease with which fluids (typically air) can pass through it. Finer sand particles have smaller gaps or pores between them compared to coarser sand particles. As a result, finer sand will offer more resistance to the flow of air, leading to a lower permeability number. Conversely, coarser sand has larger gaps between particles, allowing air to pass through more easily and resulting in a higher permeability number.",
+        "d": "Permeability in sand refers to the ease with which fluids (typically air) can pass through it. Finer sand particles have smaller gaps or pores between them compared to coarser sand particles. As a result, finer sand will offer more resistance to the flow of air, leading to a lower permeability number. Conversely, coarser sand has larger gaps between particles, allowing air to pass through more easily and resulting in a higher permeability number."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Fine sand has smaller particle sizes and tighter packing compared to coarse sand. This results in smaller pore spaces between particles, which in turn restricts the flow of fluids (such as air or water) through the sand. Due to these smaller pore spaces and increased resistance, the flow rate through fine sand is slower compared to coarse sand.",
+        "b": "Fine sand has smaller particle sizes and tighter packing compared to coarse sand. This results in smaller pore spaces between particles, which in turn restricts the flow of fluids (such as air or water) through the sand. Due to these smaller pore spaces and increased resistance, the flow rate through fine sand is slower compared to coarse sand.",
+        "c": "Fine sand has smaller particle sizes and tighter packing compared to coarse sand. This results in smaller pore spaces between particles, which in turn restricts the flow of fluids (such as air or water) through the sand. Due to these smaller pore spaces and increased resistance, the flow rate through fine sand is slower compared to coarse sand.",
+        "d": "Fine sand has smaller particle sizes and tighter packing compared to coarse sand. This results in smaller pore spaces between particles, which in turn restricts the flow of fluids (such as air or water) through the sand. Due to these smaller pore spaces and increased resistance, the flow rate through fine sand is slower compared to coarse sand."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
