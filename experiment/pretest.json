@@ -10,10 +10,10 @@
         "d": "25 g/cm<sup>2</sup>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "According to the American Foundry Men Society (AFS) standards, the pressure used to define permeability is typically 10 g/cm2. Permeability in foundry sand testing refers to the ability of the sand to allow gases to pass through it under pressure. This standard pressure of 10 g/cm2 is commonly used in testing and evaluating the permeability of different types of foundry sands, including green sand, core sand, and raw sand.",
+        "b": "According to the American Foundry Men Society (AFS) standards, the pressure used to define permeability is typically 10 g/cm2. Permeability in foundry sand testing refers to the ability of the sand to allow gases to pass through it under pressure. This standard pressure of 10 g/cm2 is commonly used in testing and evaluating the permeability of different types of foundry sands, including green sand, core sand, and raw sand.",
+        "c": "According to the American Foundry Men Society (AFS) standards, the pressure used to define permeability is typically 10 g/cm2. Permeability in foundry sand testing refers to the ability of the sand to allow gases to pass through it under pressure. This standard pressure of 10 g/cm2 is commonly used in testing and evaluating the permeability of different types of foundry sands, including green sand, core sand, and raw sand.",
+        "d": "According to the American Foundry Men Society (AFS) standards, the pressure used to define permeability is typically 10 g/cm2. Permeability in foundry sand testing refers to the ability of the sand to allow gases to pass through it under pressure. This standard pressure of 10 g/cm2 is commonly used in testing and evaluating the permeability of different types of foundry sands, including green sand, core sand, and raw sand."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Silica sand, 8 % clay, 2-5 % water and about 3 % sea coal"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Forms the major part of green sand, providing the basic refractory properties.",
+        "b": "Typically, around 10% in green sand, it acts as a binder to hold the sand grains together.",
+        "c": "Usually present in green sand to activate the clay and provide moldability. The range is typically 2-5%.",
+        "d": "Added to improve the collapsibility of the mold and to provide better venting properties. It's typically around 5% in green sand."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "All the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Time for a standard volume (typically 2000 cc) of air to pass through the sand specimen",
+        "b": "Height of the sand specimen, as this affects the path length the air must travel through the sand.",
+        "c": "Area of the sand specimen, which determines the cross-sectional area available for air flow.",
+        "d": "All of the above"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Grain size"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Permeability of molding sand is primarily influenced by factors related to the sand itself and the molding process. the type or amount of molten metal poured into the mold does not affect the permeability of the molding sand. Permeability is primarily a property of the mold itself, determined by its composition and preparation, rather than the material that is poured into it.",
+        "b": "Binders affect the compactability and porosity of the sand, thus influencing permeability.",
+        "c": "The tighter or looser the sand is packed, the more or less space there is for air flow, affecting permeability.",
+        "d": "The size of the sand grains impacts the porosity and the paths available for air flow, directly affecting permeability."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Clay content in molding sand primarily acts as a binder. As the clay content increases the sand particles tend to stick together more strongly. This reduces the spaces (pores) between the sand particles. Decreased pore space means there are fewer pathways for air or gases to pass through the sand.",
+        "b": "Clay content in molding sand primarily acts as a binder. As the clay content increases the sand particles tend to stick together more strongly. This reduces the spaces (pores) between the sand particles. Decreased pore space means there are fewer pathways for air or gases to pass through the sand.",
+        "c": "Clay content in molding sand primarily acts as a binder. As the clay content increases the sand particles tend to stick together more strongly. This reduces the spaces (pores) between the sand particles. Decreased pore space means there are fewer pathways for air or gases to pass through the sand.",
+        "d": "Clay content in molding sand primarily acts as a binder. As the clay content increases the sand particles tend to stick together more strongly. This reduces the spaces (pores) between the sand particles. Decreased pore space means there are fewer pathways for air or gases to pass through the sand."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
