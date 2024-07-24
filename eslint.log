@@ -1,0 +1,27 @@
+
+/home/runner/work/exp-permeability-number-dei/exp-permeability-number-dei/experiment/simulation/js/main.js
+    3:5   warning  'naoh' is assigned a value but never used      no-unused-vars
+    4:5   warning  'sand' is assigned a value but never used      no-unused-vars
+    5:10  warning  'dispmenu' is defined but never used           no-unused-vars
+   25:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+   28:10  warning  'specimenTube' is defined but never used       no-unused-vars
+   37:10  warning  'sandInTube' is defined but never used         no-unused-vars
+   46:10  warning  'sandRammer' is defined but never used         no-unused-vars
+   55:10  warning  'sandFilledTube' is defined but never used     no-unused-vars
+   64:10  warning  'rammingOperation' is defined but never used   no-unused-vars
+   73:10  warning  'parameters' is defined but never used         no-unused-vars
+   82:10  warning  'permeabilityMeter' is defined but never used  no-unused-vars
+   91:10  warning  'dPosition' is defined but never used          no-unused-vars
+  100:10  warning  'water' is defined but never used              no-unused-vars
+  109:10  warning  'oPosition' is defined but never used          no-unused-vars
+  118:10  warning  'manometer' is defined but never used          no-unused-vars
+  127:10  warning  'rubberBoss' is defined but never used         no-unused-vars
+  136:10  warning  'pPosition' is defined but never used          no-unused-vars
+  145:10  warning  'stopWatch' is defined but never used          no-unused-vars
+  154:10  warning  'reading' is defined but never used            no-unused-vars
+  163:10  warning  'chart' is defined but never used              no-unused-vars
+  172:10  warning  'result' is defined but never used             no-unused-vars
+  179:10  warning  'resetfun' is defined but never used           no-unused-vars
+
+✖ 22 problems (0 errors, 22 warnings)
+
