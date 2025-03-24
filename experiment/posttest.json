@@ -2,88 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Height and diameter of standard specimen is:",
+      "question": "During a permeability test, the pressure reading on the manometer is lower than expected. What does this indicate? (LO1)",
       "answers": {
-        "a": "50.7 cm and 50.7 cm",
-        "b": "49.8 cm and 49.8 cm",
-        "c": "51.8 cm and 51.8 cm",
-        "d": "50.8 cm and 50.8 cm"
+        "a": "The sand has high permeability",
+        "b": "The sand is too compacted",
+        "c": "The moisture content is too low",
+        "d": "The sand grains are too coarse"
       },
       "explanations": {
-        "a": "In permeability testing of sands, the standard specimen typically has a height and diameter of 50.8 cm (or 20 inches). This size is standardized to ensure consistency in test results across different laboratories and experiments. Therefore, option d is correct because it matches these dimensions.",
-        "b": "In permeability testing of sands, the standard specimen typically has a height and diameter of 50.8 cm (or 20 inches). This size is standardized to ensure consistency in test results across different laboratories and experiments. Therefore, option d is correct because it matches these dimensions.",
-        "c": "In permeability testing of sands, the standard specimen typically has a height and diameter of 50.8 cm (or 20 inches). This size is standardized to ensure consistency in test results across different laboratories and experiments. Therefore, option d is correct because it matches these dimensions.",
-        "d": "In permeability testing of sands, the standard specimen typically has a height and diameter of 50.8 cm (or 20 inches). This size is standardized to ensure consistency in test results across different laboratories and experiments. Therefore, option d is correct because it matches these dimensions."
+        "a": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
+        "b": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
+        "c": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
+        "d": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction."
       },
-      "correctAnswer": "d",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "On which position the ‘O-P-D’ valve is placed while measuring the time required to pass air through specimen:",
+      "question": "How does increasing sand grain fineness (higher GFN) affect permeability? (LO4)",
       "answers": {
-        "a": "O",
-        "b": "P",
-        "c": "D",
-        "d": "X"
+        "a": "Increases permeability by allowing more air to pass through",
+        "b": "Reduces permeability by making the sand more compact",
+        "c": "Has no effect on permeability",
+        "d": "Increases the risk of excessive metal penetration"
       },
       "explanations": {
-        "a": "In the context of measuring the permeability of sand specimens, particularly with the use of a permeability meter, the 'O-P-D' valve refers to the positions of Open (O), Partial (P), and Full (D). When measuring the time required for air to pass through the specimen, the valve should be placed in the 'P' position. This allows for a controlled flow rate that ensures accurate measurement of permeability.",
-        "b": "In the context of measuring the permeability of sand specimens, particularly with the use of a permeability meter, the 'O-P-D' valve refers to the positions of Open (O), Partial (P), and Full (D). When measuring the time required for air to pass through the specimen, the valve should be placed in the 'P' position. This allows for a controlled flow rate that ensures accurate measurement of permeability.",
-        "c": "In the context of measuring the permeability of sand specimens, particularly with the use of a permeability meter, the 'O-P-D' valve refers to the positions of Open (O), Partial (P), and Full (D). When measuring the time required for air to pass through the specimen, the valve should be placed in the 'P' position. This allows for a controlled flow rate that ensures accurate measurement of permeability.",
-        "d": "In the context of measuring the permeability of sand specimens, particularly with the use of a permeability meter, the 'O-P-D' valve refers to the positions of Open (O), Partial (P), and Full (D). When measuring the time required for air to pass through the specimen, the valve should be placed in the 'P' position. This allows for a controlled flow rate that ensures accurate measurement of permeability."
+        "a": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
+        "b": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
+        "c": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
+        "d": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
-    {
-      "question": "On which position the ‘O-P-D’ valve is placed while the air tank is lifted to 0 mark:",
+  {
+      "question": "Why is proper ramming of sand important in permeability testing? (LO2)",
       "answers": {
-        "a": "O",
-        "b": "P",
-        "c": "D",
-        "d": "X"
+        "a": "To ensure uniform compaction and permeability measurement",
+        "b": "To allow gases to remain trapped in the sand",
+        "c": "To increase the temperature of molten metal",
+        "d": "To decrease the permeability number (PN)"
       },
       "explanations": {
-        "a": "When the 'O-P-D' valve is positioned at 'D' (Full), it means the valve is fully open. This position is used when the air tank is lifted to the '0' mark. This allows the air tank to rise freely without any restriction from the valve, ensuring that the initial conditions are set correctly for the permeability test.",
-        "b": "When the 'O-P-D' valve is positioned at 'D' (Full), it means the valve is fully open. This position is used when the air tank is lifted to the '0' mark. This allows the air tank to rise freely without any restriction from the valve, ensuring that the initial conditions are set correctly for the permeability test.",
-        "c": "When the 'O-P-D' valve is positioned at 'D' (Full), it means the valve is fully open. This position is used when the air tank is lifted to the '0' mark. This allows the air tank to rise freely without any restriction from the valve, ensuring that the initial conditions are set correctly for the permeability test.",
-        "d": "When the 'O-P-D' valve is positioned at 'D' (Full), it means the valve is fully open. This position is used when the air tank is lifted to the '0' mark. This allows the air tank to rise freely without any restriction from the valve, ensuring that the initial conditions are set correctly for the permeability test."
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Finer the sand, ____ will be the permeability number:",
-      "answers": {
-        "a": "Lower",
-        "b": "Higher",
-        "c": "Constant",
-        "d": "None of the above"
-      },
-      "explanations": {
-        "a": "Permeability in sand refers to the ease with which fluids (typically air) can pass through it. Finer sand particles have smaller gaps or pores between them compared to coarser sand particles. As a result, finer sand will offer more resistance to the flow of air, leading to a lower permeability number. Conversely, coarser sand has larger gaps between particles, allowing air to pass through more easily and resulting in a higher permeability number.",
-        "b": "Permeability in sand refers to the ease with which fluids (typically air) can pass through it. Finer sand particles have smaller gaps or pores between them compared to coarser sand particles. As a result, finer sand will offer more resistance to the flow of air, leading to a lower permeability number. Conversely, coarser sand has larger gaps between particles, allowing air to pass through more easily and resulting in a higher permeability number.",
-        "c": "Permeability in sand refers to the ease with which fluids (typically air) can pass through it. Finer sand particles have smaller gaps or pores between them compared to coarser sand particles. As a result, finer sand will offer more resistance to the flow of air, leading to a lower permeability number. Conversely, coarser sand has larger gaps between particles, allowing air to pass through more easily and resulting in a higher permeability number.",
-        "d": "Permeability in sand refers to the ease with which fluids (typically air) can pass through it. Finer sand particles have smaller gaps or pores between them compared to coarser sand particles. As a result, finer sand will offer more resistance to the flow of air, leading to a lower permeability number. Conversely, coarser sand has larger gaps between particles, allowing air to pass through more easily and resulting in a higher permeability number."
+        "a": "Proper ramming compacts the sand uniformly, preventing loose packing (which increases permeability too much) or overpacking (which decreases permeability excessively), ensuring accurate permeability measurement.",
+        "b": "Proper ramming compacts the sand uniformly, preventing loose packing (which increases permeability too much) or overpacking (which decreases permeability excessively), ensuring accurate permeability measurement.",
+        "c": "Proper ramming compacts the sand uniformly, preventing loose packing (which increases permeability too much) or overpacking (which decreases permeability excessively), ensuring accurate permeability measurement.",
+        "d": "Proper ramming compacts the sand uniformly, preventing loose packing (which increases permeability too much) or overpacking (which decreases permeability excessively), ensuring accurate permeability measurement."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "For fine sand, the flow rate is:",
+  {
+      "question": "Which factor can negatively impact the permeability of moulding sand? (LO1)",
       "answers": {
-        "a": "slow",
-        "b": "fast",
-        "c": "no change on flow rate",
-        "d": "None of the above"
+        "a": "Presence of excessive moisture",
+        "b": "Using rounded sand grains instead of angular ones",
+        "c": "Increasing the porosity of the mould",
+        "d": "Decreasing the compactness of the sand"
       },
       "explanations": {
-        "a": "Fine sand has smaller particle sizes and tighter packing compared to coarse sand. This results in smaller pore spaces between particles, which in turn restricts the flow of fluids (such as air or water) through the sand. Due to these smaller pore spaces and increased resistance, the flow rate through fine sand is slower compared to coarse sand.",
-        "b": "Fine sand has smaller particle sizes and tighter packing compared to coarse sand. This results in smaller pore spaces between particles, which in turn restricts the flow of fluids (such as air or water) through the sand. Due to these smaller pore spaces and increased resistance, the flow rate through fine sand is slower compared to coarse sand.",
-        "c": "Fine sand has smaller particle sizes and tighter packing compared to coarse sand. This results in smaller pore spaces between particles, which in turn restricts the flow of fluids (such as air or water) through the sand. Due to these smaller pore spaces and increased resistance, the flow rate through fine sand is slower compared to coarse sand.",
-        "d": "Fine sand has smaller particle sizes and tighter packing compared to coarse sand. This results in smaller pore spaces between particles, which in turn restricts the flow of fluids (such as air or water) through the sand. Due to these smaller pore spaces and increased resistance, the flow rate through fine sand is slower compared to coarse sand."
+        "a": "High moisture content fills the air gaps in the sand, blocking the escape of gases and reducing permeability, leading to gas porosity and steam-related defects in the casting.",
+        "b": "High moisture content fills the air gaps in the sand, blocking the escape of gases and reducing permeability, leading to gas porosity and steam-related defects in the casting.",
+        "c": "High moisture content fills the air gaps in the sand, blocking the escape of gases and reducing permeability, leading to gas porosity and steam-related defects in the casting.",
+        "d": "High moisture content fills the air gaps in the sand, blocking the escape of gases and reducing permeability, leading to gas porosity and steam-related defects in the casting."
       },
       "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What is a likely consequence of using sand with extremely high permeability? (LO1)",
+      "answers": {
+        "a": "Increased gas entrapment in the casting",
+        "b": "Poor surface finish due to metal penetration",
+        "c": "Higher mould strength and durability",
+        "d": "Reduced chances of casting defects"
+      },
+      "explanations": {
+        "a": "When sand has excessively high permeability, molten metal can penetrate between sand grains, leading to rough casting surfaces and metal penetration defects, requiring additional machining or rework.",
+        "b": "When sand has excessively high permeability, molten metal can penetrate between sand grains, leading to rough casting surfaces and metal penetration defects, requiring additional machining or rework.",
+        "c": "When sand has excessively high permeability, molten metal can penetrate between sand grains, leading to rough casting surfaces and metal penetration defects, requiring additional machining or rework.",
+        "d": "When sand has excessively high permeability, molten metal can penetrate between sand grains, leading to rough casting surfaces and metal penetration defects, requiring additional machining or rework."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
