@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What does the permeability of sand measure?",
+      "question": "What does the permeability of sand measure? (LO1)",
       "answers": {
         "a": "The strength of the sand mould",
         "b": "The ability of gases to pass through the sand",
