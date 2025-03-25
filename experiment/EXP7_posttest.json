@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "During a permeability test, the pressure reading on the manometer is lower than expected. What does this indicate? (LO1)",
+      "answers": {
+        "a": "The sand has high permeability",
+        "b": "The sand is too compacted",
+        "c": "The moisture content is too low",
+        "d": "The sand grains are too coarse"
+      },
+      "explanations": {
+        "a": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
+        "b": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
+        "c": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
+        "d": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How does increasing sand grain fineness (higher GFN) affect permeability? (LO4)",
+      "answers": {
+        "a": "Increases permeability by allowing more air to pass through",
+        "b": "Reduces permeability by making the sand more compact",
+        "c": "Has no effect on permeability",
+        "d": "Increases the risk of excessive metal penetration"
+      },
+      "explanations": {
+        "a": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
+        "b": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
+        "c": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
+        "d": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Why is proper ramming of sand important in permeability testing? (LO2)",
+      "answers": {
+        "a": "To ensure uniform compaction and permeability measurement",
+        "b": "To allow gases to remain trapped in the sand",
+        "c": "To increase the temperature of molten metal",
+        "d": "To decrease the permeability number (PN)"
+      },
+      "explanations": {
+        "a": "Proper ramming compacts the sand uniformly, preventing loose packing (which increases permeability too much) or overpacking (which decreases permeability excessively), ensuring accurate permeability measurement.",
+        "b": "Proper ramming compacts the sand uniformly, preventing loose packing (which increases permeability too much) or overpacking (which decreases permeability excessively), ensuring accurate permeability measurement.",
+        "c": "Proper ramming compacts the sand uniformly, preventing loose packing (which increases permeability too much) or overpacking (which decreases permeability excessively), ensuring accurate permeability measurement.",
+        "d": "Proper ramming compacts the sand uniformly, preventing loose packing (which increases permeability too much) or overpacking (which decreases permeability excessively), ensuring accurate permeability measurement."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "Which factor can negatively impact the permeability of moulding sand? (LO1)",
+      "answers": {
+        "a": "Presence of excessive moisture",
+        "b": "Using rounded sand grains instead of angular ones",
+        "c": "Increasing the porosity of the mould",
+        "d": "Decreasing the compactness of the sand"
+      },
+      "explanations": {
+        "a": "High moisture content fills the air gaps in the sand, blocking the escape of gases and reducing permeability, leading to gas porosity and steam-related defects in the casting.",
+        "b": "High moisture content fills the air gaps in the sand, blocking the escape of gases and reducing permeability, leading to gas porosity and steam-related defects in the casting.",
+        "c": "High moisture content fills the air gaps in the sand, blocking the escape of gases and reducing permeability, leading to gas porosity and steam-related defects in the casting.",
+        "d": "High moisture content fills the air gaps in the sand, blocking the escape of gases and reducing permeability, leading to gas porosity and steam-related defects in the casting."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What is a likely consequence of using sand with extremely high permeability? (LO1)",
+      "answers": {
+        "a": "Increased gas entrapment in the casting",
+        "b": "Poor surface finish due to metal penetration",
+        "c": "Higher mould strength and durability",
+        "d": "Reduced chances of casting defects"
+      },
+      "explanations": {
+        "a": "When sand has excessively high permeability, molten metal can penetrate between sand grains, leading to rough casting surfaces and metal penetration defects, requiring additional machining or rework.",
+        "b": "When sand has excessively high permeability, molten metal can penetrate between sand grains, leading to rough casting surfaces and metal penetration defects, requiring additional machining or rework.",
+        "c": "When sand has excessively high permeability, molten metal can penetrate between sand grains, leading to rough casting surfaces and metal penetration defects, requiring additional machining or rework.",
+        "d": "When sand has excessively high permeability, molten metal can penetrate between sand grains, leading to rough casting surfaces and metal penetration defects, requiring additional machining or rework."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
