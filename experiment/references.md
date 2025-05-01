@@ -7,3 +7,5 @@
 3.	American Foundry Society. (2006). "AFS Mold & Core Test Handbook."
 
 4.	Jain, P.L. (2003). "Principles of Foundry Technology." Tata McGraw-Hill Education.
+
+5.	Taylor, H.F., Flemings, M.C. and Wulff, J. (1962) Foundry Engineering. John Wiley and Sons, Hoboken. 
