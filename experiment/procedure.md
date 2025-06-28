@@ -1,10 +1,10 @@
 ### Procedure
 1.	Click to select the specific sand sample.
 2.	Click on sand to fill it into the specimen tube and ram thrice using sand rammer.
-3.	Now the prepared standard specimen is having a diameter 50.8mm and height 50.8mm.
+3.	Now the prepared standard specimen is having a diameter 50.8 mm and height 50.8 mm.
 4.	Select the permeability meter.
 5.	Click on the 'O-P-D' valve knob to set it at 'D' position. 
-6.	Pour the water up to the W' mark into the water tank.
+6.	Pour the water up to the 'W' mark into the water tank.
 7.	Insert air tank into water tank carefully.
 8.	Slowly lift the air tank to place it at 0 mark.
 9.	Click on the 'O-P-D' valve to set it at ‘O’ position 

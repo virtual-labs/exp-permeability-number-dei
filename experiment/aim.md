@@ -1,4 +1,5 @@
-### To determine permeability number of green sand, core sand and raw sand
+### Aim
+To determine permeability number of green sand, core sand and raw sand
 
 ### LEARNING OBJECTIVES:
 
@@ -11,7 +12,7 @@ LO3: To use the permeability equation to compute the permeability number (PN) fo
 LO4: To understand the impact of grain size and binder content on the permeability of sand.
 
 ### Material used: 
-green sand, core sand and raw sand
+Green sand, Core sand and Raw sand
 
 ### Apparatus used: 
 Sand rammer, Permeability meter, Stopwatch, Specimen tube

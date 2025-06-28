@@ -10,10 +10,10 @@
         "d": "The sand grains are too coarse"
       },
       "explanations": {
-        "a": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
-        "b": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
-        "c": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
-        "d": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction."
+        "a": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content or reduced compaction.",
+        "b": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content or reduced compaction.",
+        "c": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content or reduced compaction.",
+        "d": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content or reduced compaction."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Increases the risk of excessive metal penetration"
       },
       "explanations": {
-        "a": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
-        "b": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
-        "c": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting.",
-        "d": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes, or pinhole defects in the final casting."
+        "a": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes or pinhole defects in the final casting.",
+        "b": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes or pinhole defects in the final casting.",
+        "c": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes or pinhole defects in the final casting.",
+        "d": "Finer sand grains pack more closely together, reducing the size of air gaps and making it harder for gases to escape. This can lead to gas entrapment, blowholes or pinhole defects in the final casting."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
