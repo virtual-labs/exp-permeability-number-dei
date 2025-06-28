@@ -10,10 +10,10 @@
         "d": "The sand grains are too coarse"
       },
       "explanations": {
-        "a": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
-        "b": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
-        "c": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction.",
-        "d": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content, or reduced compaction."
+        "a": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content or reduced compaction.",
+        "b": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content or reduced compaction.",
+        "c": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content or reduced compaction.",
+        "d": "A lower pressure reading on the manometer means that air is passing through the sand more easily, indicating higher permeability. This could be due to coarser grains, lower binder content or reduced compaction."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
