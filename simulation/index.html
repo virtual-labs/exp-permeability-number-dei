@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:700px;">
+				<div id="simulation"><br>
+				<img src="images/greenSand.jpg" width="30%" title="Green Sand"> 
+				<img src="images/claySand.jpg" width="30%" title="Clay Sand"> 
+				<img src="images/silicaSand.jpg" width="30%" title="Silica Sand"><br><br>Sands
+				</div>
+				
+				<div class="specimenTube" id="specimenTube">
+				<b style="color:red;">Click on <u>specimen tube</u></b><br><br>
+				<img src="images/specimenTube.jpg" title="Click here" onclick="specimenTube()"><br>Specimen Tube
+				</div>
+				
+				<div class="sidecontainer" id="sandInTube">
+				<b style="color:red;">Click on <u>green sand</u> to pour into the specimen tube</b><br><br>
+				<img src="images/sand.jpg" title="Click here" onclick="sandInTube()"><br>Green Sand
+				</div>
+				
+				<div class="sidecontainer" id="sandRammer">
+				<b style="color:red;">Click on <u>sand rammer</u></b><br><br>
+				<img src="images/sandRammer.jpg" title="Click here" onclick="sandRammer()"><br>Sand Rammer
+				</div>
+				
+				<div class="sidecontainer" id="sandFilledTube">
+				<b style="color:red;">Click on <u>sand filled specimen tube</u> to place it at the sand rammer</b><br><br>
+				<img src="images/sandFilledTube.jpg" title="Click here" onclick="sandFilledTube()"><br>Sand filled specimen Tube
+				</div>
+				
+				<div class="sidecontainer" id="rammingCam">
+				<b style="color:red;">Click on <u>ramming cam</u> to perform ramming operation 3 times</b><br><br>
+				<img src="images/rammingCam.jpg" title="Click here" onclick="rammingOperation()"><br>Ramming Cam
+				</div>
+				
+				<div class="sidecontainer" id="parameters">
+				<b style="color:red;">Click on <u>prepared specimen</u> for parameters</b><br><br>
+				<img src="images/preparedSpecimen.jpg" width="100px" title="Click here" onclick="parameters()"><br>Prepared Specimen
+				</div>
+				
+				<div class="sidecontainer" id="permeabilityMeter">
+				<b style="color:red;">Click on <u>permeability meter</u></b><br><br>
+				<img src="images/permeabilityMeter.jpg" title="Click here" onclick="permeabilityMeter()"><br>Permeability Meter
+				</div>
+				
+				<div class="sidecontainer" id="dPosition">
+				<b style="color:red;">Click on <u>OPD valve</u> to set at 'D' position</b><br><br>
+				<img src="images/OPDValve.jpg" width="100px" title="Click here" onclick="dPosition()"><br>OPD Valve
+				</div>
+				
+				<div class="sidecontainer" id="water">
+				<b style="color:red;">Click on <u>water</u> to pour in the tank</b><br><br>
+				<img src="images/water.jpg" width="100px" title="Click here" onclick="water()"><br>Water
+				</div>
+				
+				<div class="sidecontainer" id="oPosition">
+				<b style="color:red;">Click on <u>OPD valve</u> to set at 'O' position</b><br><br>
+				<img src="images/OPDValve.jpg" width="100px" title="Click here" onclick="oPosition()"><br>OPD Valve
+				</div>
+				
+				<div class="sidecontainer" id="manometer">
+				<b style="color:red;">Click on <u>manometer</u> to get initial reading</b><br><br>
+				<img src="images/manometer.jpg" width="50px" title="Click here" onclick="manometer()"><br>Manometer
+				</div>
+				
+				<div class="sidecontainer" id="rubberBoss">
+				<b style="color:red;">Click on <u>standard specimen tube</u> to place it in the inverted position on the rubber boss</b><br><br>
+				<img src="images/preparedSpecimen.jpg" width="100px" title="Click here" onclick="rubberBoss()"><br>Standard Specimen Tube
+				</div>
+				
+				<div class="sidecontainer" id="pPosition">
+				<b style="color:red;">Click on <u>OPD valve</u> to set at 'P' position</b><br><br>
+				<img src="images/OPDValve.jpg" width="100px" title="Click here" onclick="pPosition()"><br>OPD Valve
+				</div>
+				
+				<div class="sidecontainer" id="stopWatch">
+				<b style="color:red;">Click on <u>stop watch</u> to record the time for the air tank to reach at 0 mark</b><br><br>
+				<img src="images/stopWatch.jpg" width="100px" title="Click here" onclick="stopWatch()"><br>Stop Watch
+				</div>
+				
+				<div class="sidecontainer" id="reading">
+				<b style="color:red;">Click on <u>manometer</u> to get final reading</b><br><br>
+				<img src="images/manometer.jpg" width="50px" title="Click here" onclick="reading()"><br>Manometer
+				</div>
+				
+				<div class="sidecontainer" id="chart">
+				<b style="color:red;">Click on <u>permeability meter</u></b><br><br>
+				<img src="images/permeabilityMeter.jpg" title="Click here" onclick="chart()"><br>Permeability Meter
+				</div>
+				
+				<div class="sidecontainer" id="result">
+				<b style="color:red;">Click on <u>Result</u> to get the Observations and Calculation</b><br><br>
+				<img src="images/result.jpg" title="Click here" onclick="result()">
+				</div>
+				
+<div class="sidecontainer" id="observations" style="margin-left:300px;">
+Observations and Calculation<br><br>
+<table width="100%" border="1">
+  <tr>
+    <td width="124"><p align="center"><strong>Type of specimen</strong></p></td>
+    <td colspan="3"><p align="center"><strong>Manometer reading (in g/cm<sup>2</sup>)</strong></p></td>
+    <td width="147"><p align="center"><strong>Time in minutes</strong></p></td>
+    <td colspan="2"><p align="center"><strong>Permeability Number</strong></p></td>
+  </tr>
+  <tr>
+    <td width="124"><div align="center"><strong>Sand</strong></div></td>
+    <td width="178"><p align="center"><strong>Initial reading, P<sub>i</sub></strong></p></td>
+    <td width="203"><p align="center"><strong>Final reading, P<sub>f</sub></strong></p></td>
+    <td width="129"><p align="center"><strong>Difference, P</strong></p></td>
+    <td width="147"><p align="center"><strong>Time, T</strong></p></td>
+    <td width="66"><p align="center"><strong>Indicated</strong></p></td>
+    <td width="185"><p align="center"><strong>Calculated</strong></p></td>
+  </tr>
+  <tr>
+    <td width="124"><p align="center">Green sand </p></td>
+    <td width="178"><p align="center">0.6</p></td>
+    <td width="203"><p align="center">6.9</p></td>
+    <td width="129"><p align="center">6.3</p></td>
+    <td width="147"><p align="center">0.917</p></td>
+    <td width="66"><p align="center">93</p></td>
+    <td width="185"><p align="center">86.77</p></td>
+  </tr>
+</table><br>
+<img src="images/formula.jpg" width="90px">
+<br><br>
+Volume of air passed, V = 2000 cm<sup>3</sup><br>
+Height, h = 50.8 mm = 5.08 cm<br>
+Diameter, d = 50.8 mm = 5.08 cm<br>
+Area of specimen tube, A = &pi;d<sup>2</sup>/4
+</div>
+</div>
+<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/specimenTube.jpg" title="Specimen Tube">
+			<h3 class="h-secondary center">Specimen Tube</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/sand.jpg" title="Sand">
+			<h3 class="h-secondary center">Sand</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/sandRammer.jpg" title="Sand Rammer">
+			<h3 class="h-secondary center">Sand Rammer</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/permeabilityMeter.jpg" title="Permeability Meter">
+			<h3 class="h-secondary center">Permeability Meter</h3>
+		</div>
+		</div>
+	</div>
+	</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
+<script src="../assets/js/iframeResize.js"></script>
+        
+        </body>
+</html>

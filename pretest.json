@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What does the permeability of sand measure? (LO1)",
+      "answers": {
+        "a": "The strength of the sand mould",
+        "b": "The ability of gases to pass through the sand",
+        "c": "The temperature resistance of sand",
+        "d": "The hardness of the sand particles"
+      },
+      "explanations": {
+        "a": "Permeability in sand moulding refers to the ease with which gases, steam, and air can escape through the sand during metal pouring and solidification. If permeability is too low, gases may get trapped inside the casting, leading to defects like gas porosity, blowholes, and pinholes. Proper permeability ensures better casting quality and fewer defects.",
+        "b": "Permeability in sand moulding refers to the ease with which gases, steam, and air can escape through the sand during metal pouring and solidification. If permeability is too low, gases may get trapped inside the casting, leading to defects like gas porosity, blowholes, and pinholes. Proper permeability ensures better casting quality and fewer defects.",
+        "c": "Permeability in sand moulding refers to the ease with which gases, steam, and air can escape through the sand during metal pouring and solidification. If permeability is too low, gases may get trapped inside the casting, leading to defects like gas porosity, blowholes, and pinholes. Proper permeability ensures better casting quality and fewer defects.",
+        "d": "Permeability in sand moulding refers to the ease with which gases, steam, and air can escape through the sand during metal pouring and solidification. If permeability is too low, gases may get trapped inside the casting, leading to defects like gas porosity, blowholes, and pinholes. Proper permeability ensures better casting quality and fewer defects."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why is permeability important in casting? (LO1)",
+      "answers": {
+        "a": "To ensure the molten metal solidifies quickly",
+        "b": "To allow gases and water vapour to escape from the mould",
+        "c": "To increase the weight of the casting",
+        "d": "To improve the chemical composition of the metal"
+      },
+      "explanations": {
+        "a": "During casting, the interaction between molten metal and moist sand generates gases and water vapour. If these gases do not escape properly, they become trapped in the solidified metal, causing surface defects or internal porosity. Proper permeability allows for the smooth escape of gases, reducing the chances of casting rejection and rework.",
+        "b": "During casting, the interaction between molten metal and moist sand generates gases and water vapour. If these gases do not escape properly, they become trapped in the solidified metal, causing surface defects or internal porosity. Proper permeability allows for the smooth escape of gases, reducing the chances of casting rejection and rework.",
+        "c": "During casting, the interaction between molten metal and moist sand generates gases and water vapour. If these gases do not escape properly, they become trapped in the solidified metal, causing surface defects or internal porosity. Proper permeability allows for the smooth escape of gases, reducing the chances of casting rejection and rework.",
+        "d": "During casting, the interaction between molten metal and moist sand generates gases and water vapour. If these gases do not escape properly, they become trapped in the solidified metal, causing surface defects or internal porosity. Proper permeability allows for the smooth escape of gases, reducing the chances of casting rejection and rework."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "How does grain size affect permeability? (LO4)",
+      "answers": {
+        "a": "Finer grains increase permeability",
+        "b": "Coarser grains increase permeability",
+        "c": "Grain size has no effect on permeability",
+        "d": "Permeability increases only if grains are angular"
+      },
+      "explanations": {
+        "a": "Larger grains create bigger pores in the sand structure, allowing gases to escape more easily, improving permeability. Conversely, finer grains pack tightly, reducing pore size and making it harder for gases to escape. However, coarse grains can lead to surface roughness, so a balance between grain size and surface finish is required.",
+        "b": "Larger grains create bigger pores in the sand structure, allowing gases to escape more easily, improving permeability. Conversely, finer grains pack tightly, reducing pore size and making it harder for gases to escape. However, coarse grains can lead to surface roughness, so a balance between grain size and surface finish is required.",
+        "c": "Larger grains create bigger pores in the sand structure, allowing gases to escape more easily, improving permeability. Conversely, finer grains pack tightly, reducing pore size and making it harder for gases to escape. However, coarse grains can lead to surface roughness, so a balance between grain size and surface finish is required.",
+        "d": "Larger grains create bigger pores in the sand structure, allowing gases to escape more easily, improving permeability. Conversely, finer grains pack tightly, reducing pore size and making it harder for gases to escape. However, coarse grains can lead to surface roughness, so a balance between grain size and surface finish is required."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What is the standard air volume used in the AFS permeability test? (LO2)",
+      "answers": {
+        "a": "1000 cc",
+        "b": "2000 cc",
+        "c": "5000 cc",
+        "d": "100 cc"
+      },
+      "explanations": {
+        "a": "According to the American Foundrymen Society (AFS), permeability is tested by passing 2000 cc (cubic centimetres) of air through a standard sand specimen under controlled conditions. This standardized volume ensures accurate and repeatable permeability measurements.",
+        "b": "According to the American Foundrymen Society (AFS), permeability is tested by passing 2000 cc (cubic centimetres) of air through a standard sand specimen under controlled conditions. This standardized volume ensures accurate and repeatable permeability measurements.",
+        "c": "According to the American Foundrymen Society (AFS), permeability is tested by passing 2000 cc (cubic centimetres) of air through a standard sand specimen under controlled conditions. This standardized volume ensures accurate and repeatable permeability measurements.",
+        "d": "According to the American Foundrymen Society (AFS), permeability is tested by passing 2000 cc (cubic centimetres) of air through a standard sand specimen under controlled conditions. This standardized volume ensures accurate and repeatable permeability measurements."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What is the purpose of the manometer in the permeability test? (LO2)",
+      "answers": {
+        "a": "To measure the pressure drop across the sand specimen",
+        "b": "To measure the temperature of molten metal",
+        "c": "To check the weight of the sand sample",
+        "d": "To determine the surface roughness of the casting"
+      },
+      "explanations": {
+        "a": "A manometer is a pressure-measuring device used in permeability testing. It measures the pressure difference (P) between the air inlet and outlet as the air passes through the sand specimen. This value is crucial for calculating the permeability number (PN), which helps determine how well gases escape from the mould.",
+        "b": "A manometer is a pressure-measuring device used in permeability testing. It measures the pressure difference (P) between the air inlet and outlet as the air passes through the sand specimen. This value is crucial for calculating the permeability number (PN), which helps determine how well gases escape from the mould.",
+        "c": "A manometer is a pressure-measuring device used in permeability testing. It measures the pressure difference (P) between the air inlet and outlet as the air passes through the sand specimen. This value is crucial for calculating the permeability number (PN), which helps determine how well gases escape from the mould.",
+        "d": "A manometer is a pressure-measuring device used in permeability testing. It measures the pressure difference (P) between the air inlet and outlet as the air passes through the sand specimen. This value is crucial for calculating the permeability number (PN), which helps determine how well gases escape from the mould."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
